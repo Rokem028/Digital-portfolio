@@ -1,0 +1,31 @@
+
+body {
+    background-color: black;
+}
+h1 {
+    color: whitesmoke;
+}
+p {
+    color: whitesmoke;
+}
+
+a:link {
+    color: lightgray;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: lightgray;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
