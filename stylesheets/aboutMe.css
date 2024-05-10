@@ -1,14 +1,11 @@
-
+head{
+    font-family: Consolas,monaco, monospace;
+}
 body {
     background-color: black;
-}
-h1 {
+    font-family: Consolas,monospace;
     color: whitesmoke;
 }
-p {
-    color: whitesmoke;
-}
-
 a:link {
     color: lightgray;
     background-color: transparent;
@@ -25,7 +22,7 @@ a:hover {
     text-decoration: none;
 }
 a:active {
-    color: yellow;
+    color: whitesmoke;
     background-color: transparent;
     text-decoration: none;
 }

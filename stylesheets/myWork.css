@@ -1,11 +1,16 @@
+head{
+    font-family: Consolas,monaco, monospace;
+}
 body {
     background-color: black;
+    font-family: Consolas,monospace;
 }
 h1 {
     color: whitesmoke;
 }
 p {
     color: whitesmoke;
+    font-family: Consolas, monospace;
 }
 
 a:link {
