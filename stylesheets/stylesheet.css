@@ -1,18 +1,9 @@
 head{
+    color: whitesmoke;
     font-family: Consolas,monaco, monospace;
 }
-body {
-    background-color: black;
-    font-family: Consolas,monospace;
-}
-h1 {
-    color: whitesmoke;
-}
-p {
-    color: whitesmoke;
-    font-family: Consolas, monospace;
-}
-
+/*nav bar*/
+/*links*/
 a:link {
     color: lightgray;
     background-color: transparent;
@@ -33,6 +24,24 @@ a:active {
     background-color: transparent;
     text-decoration: none;
 }
+/*intro bar*/
+div {
+    max-width: fit-content;
+    margin-inline: auto;
+    color: whitesmoke;
+    font-family: Consolas,monaco, monospace;
+}
+/*body*/
+body {
+    color: whitesmoke;
+    background-color: black;
+    font-family: Consolas,monospace;
+}
+p {
+    color: whitesmoke;
+    font-family: Consolas, monospace;
+}
+
 li{
     color: whitesmoke;
 }
