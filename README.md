@@ -1,4 +1,4 @@
 # Digital-portfolio
 
-## showing ive done stuff!
-### :0
+## A showcase of my work
+### 
